@@ -1,0 +1,19 @@
+.para {
+    background-color: lightcoral;
+    font-style: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ID1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.more {
+    font-size: 24px;
+}
+
+#ID2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
